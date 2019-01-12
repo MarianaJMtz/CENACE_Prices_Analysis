@@ -267,7 +267,7 @@ MT_DF_MDA = pd.DataFrame({
 })
 MT_DF_MDA= MT_DF_MDA.sort_values(["SISTEMA","ZONA","FECHA"], ascending=[True, True,True])
 MT_DF_MDA = MT_DF_MDA.set_index("ZONA")
-path_Master_Table_MDA = os.path.join("MDA_table", "Master_Table_MDA.csv")
+path_Master_Table_MDA = os.path.join("MDA_table" + os.sep, "Master_Table_MDA.csv")
 MT_DF_MDA.to_csv(path_Master_Table_MDA)     # Save CSV file
 
 print("----------------------------------------------------------------------------")
@@ -434,7 +434,7 @@ MT_DF_MTR = pd.DataFrame({
 })
 MT_DF_MTR= MT_DF_MTR.sort_values(["SISTEMA","ZONA","FECHA"], ascending=[True, True,True])
 MT_DF_MTR = MT_DF_MTR.set_index("ZONA")
-path_Master_Table_MTR = os.path.join("MTR_table", "Master_Table_MTR.csv")
+path_Master_Table_MTR = os.path.join("MTR_table" + os.sep, "Master_Table_MTR.csv")
 MT_DF_MTR.to_csv(path_Master_Table_MTR)    # Save CSV File
 
 print("----------------------------------------------------------------------------")
