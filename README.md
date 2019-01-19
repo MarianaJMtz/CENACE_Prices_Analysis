@@ -8,4 +8,3 @@ Mexico is composed of three independent systems:
 * **SIN** which is interconnected with the US, Belize and Guatemala.
 
 ![Mexico's Electricity System](/images/mexico_electricity_system.png)
-Format: ![Mexico's Electricity System](url)
