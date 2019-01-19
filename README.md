@@ -5,8 +5,6 @@
 ​
 # Retrieval and overview of Locational Marginal Price in Mexico’s short-term energy market in 2018
 ​
-–––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
-​
 ## The Wholesale Electricity Market
 ​
 On January 27, 2016 the Mexican Deparment of Energy (Secretaría de Energía) initialized the new Wholesale Electricity Market, which aimed to allow private companies to enter the country's electrical network to supply and compete against the government-owned *Comisión Federal de Electricidad* (CFE), which had been the dominant supplier before that time. By introducing an offer-and-demand model, companies would now have different options to purchase energy at more convenient prices.
@@ -72,8 +70,6 @@ Before retrieveing any data, the following key questions were placed in order to
 * BCS was the system where it happened more often (>6500 hours), whereas BCA was the one with the least occurrences (<5200 hours).
 ​
 * Given the number of load zones in SIN, there is a higher degree of variation across these regions. However, it was observed that northern regions tend to have the higher frequencies (>5000 hours) while load zones in the Yucatan Peninsula have the lowest (>4300 hours). 
-​
-–––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
 ​
 # Data Analysis Methodology
 ​
