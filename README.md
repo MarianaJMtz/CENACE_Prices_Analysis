@@ -5,7 +5,7 @@
 ​
 # Retrieval and overview of Locational Marginal Price in Mexico’s short-term energy market in 2018
 ​
-––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
+–––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
 ​
 ## The Wholesale Electricity Market
 ​
@@ -34,7 +34,7 @@ Each of this systems is composed of charge zones and each zone itself contains e
 A few examples of players who have a proven interest in the perforance of the WEM are: 
 ​
 * Electricity generators
-* Basic suppliers [CFE-Suministro Básico]
+* Basic suppliers
 * Qualified users [>1MW]
 * Qualified suppliers
 * Traders
@@ -73,7 +73,7 @@ Before retrieveing any data, the following key questions were placed in order to
 ​
 * Given the number of load zones in SIN, there is a higher degree of variation across these regions. However, it was observed that northern regions tend to have the higher frequencies (>5000 hours) while load zones in the Yucatan Peninsula have the lowest (>4300 hours). 
 ​
-––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
+–––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
 ​
 # Data Analysis Methodology
 ​
@@ -107,4 +107,4 @@ Before retrieveing any data, the following key questions were placed in order to
 3. Two separate analysis were conducted to analyze the retrieved data to answer the key questions. Both of them use the *Pandas*, *Matplotlib* and *Numpy* libraries to manipulate, analyze and visualize data.
 ​
     * **Analysis_MJM.ipynb** analyzes the congestion, energy and loss components of the grand energy price and plots the data along the year in order to find geographic or temporal trends.
-    * **MReyes_A1.ipynb** analyzes the frequencies of the MTR-MDA price different being positive or negative along the year. A positive price difference implies a profit for the company selling energy whereas a negative price difference implies a loss. The maximum and minimum daily prices for each zone are also computed in order to look for observalbe patterns along the year.
+    * **MReyes_A1.ipynb** analyzes the frequencies of the MTR-MDA price different being positive or negative along the year. A positive price difference implies a profit for the company selling energy whereas a negative price difference implies a loss. The maximum and minimum daily prices for each zone are also computed in order to look for observable patterns along the year.
