@@ -5,7 +5,7 @@
 ​
 # Retrieval and overview of Locational Marginal Price in Mexico’s short-term energy market in 2018
 ​
-–––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
+––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
 ​
 ## The Wholesale Electricity Market
 ​
@@ -73,7 +73,7 @@ Before retrieveing any data, the following key questions were placed in order to
 ​
 * Given the number of load zones in SIN, there is a higher degree of variation across these regions. However, it was observed that northern regions tend to have the higher frequencies (>5000 hours) while load zones in the Yucatan Peninsula have the lowest (>4300 hours). 
 ​
-–––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
+––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
 ​
 # Data Analysis Methodology
 ​
